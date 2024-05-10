@@ -1,5 +1,9 @@
 # openHAB_ItemCreator
 
+Forked ItemCreator, Original from Stefan300381
+OH 4.x Patch by Bloodboy1986
+
+
 A simple webpage that helps to create an \*.items file for openHAB 2.5.10 and 3.0 (using API Token, see below)
 
 ## How to use:
